@@ -2,7 +2,7 @@
 
 ## SCS Logos
 Note that the SCS logos, the terms Sovereign Cloud Stack and SCS are protected trademarks and wordmarks by the Open Source Business Alliance e.V.
-Their usage is subject to usage policies -- please get in touch with us to learn about the exact conditions. The logo creation has been performed by PlusServer and donated to the SCS project.
+Their usage is subject to usage policies -- please get in touch with us to learn about the exact conditions. The logo creation has been performed by [plusserver GmbH](https://www.plusserver.com) and donated to the SCS project.
 
 ## SCS Colors
 Our colors are
